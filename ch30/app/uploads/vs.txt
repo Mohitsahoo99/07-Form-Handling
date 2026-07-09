@@ -1,0 +1,16 @@
+{
+    "text2code.showLogoutWelcomeView": false,
+    "text2code.showLoginWelcomeView": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.REPL.enableREPLSmartSend": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "explorer.confirmDelete": false,
+    "python.createEnvironment.trigger": "off",
+    "editor.inlineSuggest.enabled": false
+    [[ "$TERM_PROGRAM" == "vscode" ]] && . "$(code --locate-shell-integration-path bash)"
+    
+
+}
